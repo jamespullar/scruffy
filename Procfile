@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n scruffy
+web: bin/hubot -a slack -n scruffy --alias '\'
